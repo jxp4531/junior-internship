@@ -1,4 +1,9 @@
-# -*- coding:utf-8 -*
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# @Date    : 2017-07-03 16:04:28
+# @Author  : Lewis Tian (chasetichlewis@gmail.com)
+# @Link    : https://github.com/LewisTian
+# @Version : Python3.5
 
 from random import randint
 import time

@@ -1,8 +1,7 @@
 /**
  * 
  * @authors Lewis Tian (chasetichlewis@gmail.com)
- * @date    2017-08-30 14:42:01
- * @version $Id$
+ * @date    2017-07-13 14:42:01
  */
 #include <iostream>
 #include <fstream>
