@@ -4,7 +4,7 @@
 - C++版是直接跑初始值，能跑出来就跑出来，若是跑不出来就一直跑；
 
 ## 两者效率对比图
-![ScreenShot](https://i.loli.net/2017/09/01/59a91e056decf.png "Contrast")
+![ScreenShot](https://i.loli.net/2017/09/20/59c233b37e7c8.png "Contrast")
 
 ## Python
 - usage: python GraphColoring.py [file path] [initial color number] [standard color number]
