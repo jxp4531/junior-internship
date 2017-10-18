@@ -1,15 +1,17 @@
-# 拓扑图可视化
-使用了[D3v4.js](https://github.com/d3/d3)库
-在给出的[Curved Links](https://bl.ocks.org/mbostock/4600693)例子上修改、增加功能。
-
-## 使用到的js库
-- d3-v4
-- jQuery
+# Topology Visualization
+## 拓扑图可视化
+基于 [D3v4.js](https://github.com/d3/d3) 及其示例 [Curved Links](https://bl.ocks.org/mbostock/4600693) 的拓扑图可视化工具.
 
 ## 使用方法:
+配置好 web 服务器后, 在浏览器地址栏输入 `$(address):$(port)[/index.html]?$(file).json` 访问.
+其中 `$(address)` 是服务器的 IP 地址或域名, `$(port)` 是端口, `$(file)` 是输入文件名, 使用数字命名可以使用方向键翻页.
 
-    localhost:port[/index.html]?0.json
-    
+示例
+- https://lewistian.github.io/show/?0.json
+- http://127.0.0.1?0.json
+- http://127.0.0.1:8080?0.json
+
+由于安全原因, chrome 等浏览器禁止 js 读写本地文件, 需要在启动时添加 `--allow-file-access-from-files` 参数才能不搭建 web 服务器使用该工具. 
     
 ## 拓扑图界面内的操作方式和基本元素解释
 
