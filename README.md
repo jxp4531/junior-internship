@@ -42,7 +42,7 @@
 2. Color：边的颜色的调节
 3. Width：边的宽度的调节
 
-## [修改日志](./log.md)
+## [修改日志](./Log.md)
 
 ### 当前效果图可访问[网页](https://lewistian.github.io/show/?0.json)
 
