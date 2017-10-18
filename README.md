@@ -1,5 +1,5 @@
 ## 图染色优化
-大三暑假(2017/6/28-7/31)实习第一个任务，开始使用[Python](https://github.com/LewisTian/GraphColoring/blob/master/GraphColoring.py)编写代码，跑出来效率低得要命，然后在进行下一个[拓扑图](https://github.com/LewisTian/Topology)的任务的时候重新用[C++](https://github.com/LewisTian/GraphColoring/blob/master/GraphColoring.cpp)写了一遍。
+大三暑假实习(2017/6/28-7/31)第一个任务，开始使用[Python](https://github.com/LewisTian/GraphColoring/blob/master/GraphColoring.py)编写代码，跑出来效率低得要命，然后在进行下一个[拓扑图](https://github.com/LewisTian/Topology)的任务的时候重新用[C++](https://github.com/LewisTian/GraphColoring/blob/master/GraphColoring.cpp)写了一遍。
 - Python版会从初始值跑到标准值(或者跑不出来)
 - C++版是直接跑初始值，并未设置标准值，即跑完初始值就结束了
 
