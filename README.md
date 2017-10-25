@@ -15,7 +15,26 @@
 
 由于安全原因, chrome 等浏览器禁止 js 读写本地文件, 需要在启动时添加 `--allow-file-access-from-files` 参数才能不搭建 web 服务器使用该工具. 
 
-## 简单操作说明
+## JSON文件格式说明
+### nodes(点的集合)
+- label: 标签文本
+- id: 点的id
+- shape: 形状
+- color: 颜色
+- opacity: 透明度
+- labelcolor: 标签的颜色
+- radius: 半径
+### links(边的集合)
+- length: 长度
+- color: 颜色 
+- source: 起点的标签 
+- target: 终点的标签
+- opacity: 透明度
+- style: 边的样式
+- width: 宽度
+- id: 边的id
+
+## 操作说明
 详细操作说明在页面点击`显示帮助`按钮或者敲击`h`键
 - ← [方向左键]: 加载前一个拓扑图
 - → [方向右键]: 加载下一个拓扑图
