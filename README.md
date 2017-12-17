@@ -8,11 +8,12 @@
 ## 两者效率对比图
 ![ScreenShot](https://i.loli.net/2017/09/20/59c233b37e7c8.png "Contrast")
 
-## Python (Python3.5+ Windows10)
+## 使用说明
+### Python (Python3.5+ Windows10)
 - [usage]: python GraphColoring.py [file path] [initial color number] [standard color number]
 - [example]: `python GraphColoring.py ./test/DSJC125_1.txt 10 5`
 
-## C++ (Windows10)
+### C++ (Windows10)
 - [usage]: 
 ```
 >> g++ GraphColoring.cpp
