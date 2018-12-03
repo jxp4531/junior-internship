@@ -1,6 +1,6 @@
 # Topology Visualization
 ## 拓扑图可视化
-- 本项目为大三暑假实习 (2017/6/28-2017/7/31) 第二个任务，第一个任务为 [图着色编程](https://github.com/LewisTian/GraphColoring)
+- 本项目为大三暑假实习 (2017/6/28-2017/7/31) 第二个任务，第一个任务为 [图着色编程](../GraphColoring)
 - 基于 [D3v4.js](https://github.com/d3/d3) 及其示例 [Curved Links](https://bl.ocks.org/mbostock/4600693) 的拓扑图可视化工具.
 - [项目修改日志](./Log.md)
 
